@@ -11,9 +11,9 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8">
-      <module name="NettyPractice" target="8" />
-      <module name="NIOPractice" target="8" />
-      <module name="RawUseOfSocket" target="8" />
+      <module name="NettyPractice" target="6" />
+      <module name="NIOPractice" target="1.5" />
+      <module name="RawUseOfSocket" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
